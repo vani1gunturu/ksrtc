@@ -53,7 +53,7 @@ import org.testng.annotations.Test;
 		@AfterTest
 		public void close()
 		{
-				driver.close();
+			driver.close();
 		}
 }
 
