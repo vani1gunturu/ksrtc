@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="20643" started-at="2019-05-08T12:49:11Z" finished-at="2019-05-08T12:49:31Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="20643" started-at="2019-05-08T12:49:11Z" finished-at="2019-05-08T12:49:31Z">
+      <class name="com.csg.ksrtc.Ksrtc">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.csg.ksrtc.Ksrtc@20e2cbe0]" name="setUp" is-config="true" duration-ms="3086" started-at="2019-05-08T12:49:11Z" finished-at="2019-05-08T12:49:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="GetServiceNumbers()[pri:0, instance:com.csg.ksrtc.Ksrtc@20e2cbe0]" name="GetServiceNumbers" duration-ms="17331" started-at="2019-05-08T12:49:14Z" finished-at="2019-05-08T12:49:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- GetServiceNumbers -->
+        <test-method status="PASS" signature="close()[pri:0, instance:com.csg.ksrtc.Ksrtc@20e2cbe0]" name="close" is-config="true" duration-ms="169" started-at="2019-05-08T12:49:31Z" finished-at="2019-05-08T12:49:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+      </class> <!-- com.csg.ksrtc.Ksrtc -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
